@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Iqbal Hussain 
 
-<!--
-**iqbalhussainjs99-star/iqbalhussainjs99-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst 📊
 
-Here are some ideas to get you started:
+I am currently developing my skills in Data Analytics, with a focus on Microsoft Excel, data cleaning, data validation, and data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+- Microsoft Excel
+- Data Cleaning & Data Validation
+- Data Management
+- SQL
+- Python
+
+My Goal
+To develop strong practical skills in Data Analytics and turn raw data into meaningful insights that can support better business decisions.
+
+Skills
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- Data Quality
+- Data Management
+- Data Entry
